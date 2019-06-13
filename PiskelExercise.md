@@ -2,13 +2,13 @@
 Use [Piskel](https://www.piskelapp.com) to create pixel art!
 
 ## Power up
-Create a new sprite, or import [the existing Star sprite](Powerup.piskel) and customize it! In the game, touching this sprite will give the player a power up. Export the piskel when it is complete.
+Create a new sprite, or import the existing Star sprite (`Powerup.piskel`) and customize it! In the game, touching this sprite will give the player a power up. Export the piskel when it is complete.
 
 ## Enemy
-Import [the existing Enemy sprite](Enemy.piskel) and update it! Remember to update both frames, and make sure the animation still looks smooth. Change colors, add appendages, or make something completely new. Export the piskel when it is complete.
+Import the existing Enemy sprite (`Enemy.piskel`) and update it! Remember to update both frames, and make sure the animation still looks smooth. Change colors, add appendages, or make something completely new. Export the piskel when it is complete.
 
 ## Player
-Import [the existing Player sprite](Player.piskel) and update it! This is a 3-frame walk cycle with a Ping-pong "standing" frame that repeats during the cycle. Add some color/clothing/personality to the player in the existing frames. Then, try to make a smoother animation by adding additional frames between the existing frames. Use the following images to help:
+Import the existing Player sprite (`Player.piskel`) and update it! This is a 3-frame walk cycle with a Ping-pong "standing" frame that repeats during the cycle. Add some color/clothing/personality to the player in the existing frames. Then, try to make a smoother animation by adding additional frames between the existing frames. Use the following images to help:
 
 ![](https://i.imgur.com/2heuTR0.png)  
 
